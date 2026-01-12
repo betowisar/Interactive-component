@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ outline: 1px solid orangered;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background-color: #fff;
+}
+
+.rating-buttons {
+    display: flex;
+    gap: 2rem;
+    justify-content: center; 
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.star-icon {
+    width: 2.5rem;
+}
+
+.thank-you-image {
+    width: 50%;
+}
