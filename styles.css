@@ -9,6 +9,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     font-family: Overpass, sans-serif;
     background-color: #000000;
     padding: 1.5rem;
@@ -59,7 +60,7 @@ body {
     padding: .5rem;
     align-self: center;
     border-radius: 2rem;
-    color: hsl(216, 12%, 8%);
+    color: hsl(213, 19%, 18%);
     font-size: 1rem;
     font-family: "Overpass", sans-serif;
     font-style: bold;
@@ -71,6 +72,11 @@ body {
 .submit-btn:active {
     background-color: hsl(25, 97%, 53%);
     scale: 0.95;
+}
+
+.rating-buttons button.selected {
+    background-color: white;
+    color: hsl(216, 12%, 8%);
 }
 
 button {
@@ -107,4 +113,8 @@ p {
     color: hsl(217, 12%, 63%);
     font-size: 1rem;
     font-family: Overpass regular, sans-serif;
+}
+
+.hidden {
+    display: none;
 }
