@@ -73,6 +73,9 @@ body {
     scale: 0.95;
 }
 
+button {
+    -webkit-tap-highlight-color: transparent;
+}
 
 img {
     max-width: 100%;
