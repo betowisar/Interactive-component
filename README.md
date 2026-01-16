@@ -46,4 +46,4 @@ The goal of this project was to practice building a small interactive UI using H
 ## 🧠 Author
 
 - Frontend Mentor profile: https://www.frontendmentor.io/profile/betowisar
-- GitHub: https://github.com/betowisar
+- GitHub: https://github.com/betowisar/Interactive-component
