@@ -39,7 +39,7 @@ The goal of this project was to practice building a small interactive UI using H
 
 ## 🚀 Live Site
 
-🔗 [Live site URL here]
+🔗 https://696a5b08f2ef2a00084b5604--interactive-component-betowisar.netlify.app/
 
 ---
 
